@@ -84,5 +84,3 @@
 5. **For multiple item purchases and sales, break down into per-unit cost.**
 6. **Formulas simplify solving for unknowns in profit-loss scenarios.**
 
-These key concepts should help in solving profit-loss related problems efficiently.
-
