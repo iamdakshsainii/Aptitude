@@ -88,7 +88,7 @@ If A’s income is x% more than B’s, then B’s income is (x / (100 + x)) × 1
 
 ### **Formula:**
 
-Total Marks = (Obtained Marks + Failed Marks) × 100 / Passing Percentage
+Total Marks= (Obtained Marks + Failed Marks) × 100 / Passing Percentage
 
 **Example:** A student scores 150 marks and fails by 30 marks when the pass percentage is 40%. Find total marks.
 
@@ -194,6 +194,3 @@ Percentage Error = ((Actual Value - Incorrect Value) / Actual Value) × 100
 7. If the length of a rectangle is increased by 25% and breadth decreased by 20%, find % change in area.
 
    - **Solution:** 25 - 20 + (25 × -20)/100 = **0% (No change)**.
-
-
-
