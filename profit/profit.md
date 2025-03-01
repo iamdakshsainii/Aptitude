@@ -7,7 +7,7 @@
 - **Profit:** If \( S.P. > C.P. \), then \( \text{Profit} = S.P. - C.P. \)
 - **Loss:** If \( C.P. > S.P. \), then \( \text{Loss} = C.P. - S.P. \)
 
-### Formulas:
+### Formulas
 
 1. **Profit Percentage:**
    \[
@@ -137,4 +137,3 @@
 6. **Formulas simplify solving for unknowns in profit-loss scenarios.**
 
 These key concepts should help in solving profit-loss related problems efficiently.
-
